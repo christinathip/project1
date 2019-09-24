@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#giant files that shouldn't be committed
+updated\ housing.ipynb
+ZILLOW_metadata.csv
